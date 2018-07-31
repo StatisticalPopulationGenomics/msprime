@@ -13,3 +13,4 @@ all software directly used are listed here:
 - scipy 1.0.1
 - seaborn 0.9.0
 - pandas 0.22.0
+- matplotlib 2.2.2
